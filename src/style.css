@@ -1,0 +1,66 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #6b92b9;
+    overflow: hidden;
+}
+
+a {
+    color: white;
+    font-style: italic;
+}
+
+.hostInput {
+    width: 100px;
+    height: 30px;
+    margin: 0 20px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color: lightgreen;
+}
+
+.hostInput:disabled {
+    width: 100px;
+    height: 30px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    background-color: gray;
+}
+
+.buttonContainer {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.mainContent {
+    color: white;
+    font: 300px/1 'candy_stripe_brkregular';
+    white-space: nowrap;
+    -webkit-backface-visibility: hidden;
+}
+
+.connectButton {
+    width: 50%;
+    height: 50px;
+    font-size: 28px;
+}
+
+#modeSwitch {
+    top: 20px;
+    width: auto;
+}
+
+#santa {
+    width: 300px;
+    height: 199px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+    overflow: hidden;
+}

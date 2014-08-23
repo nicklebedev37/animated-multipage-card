@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=0.0, width=device-width">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+        <script src='/socket.io/socket.io.js'></script>
+        <script src='/clientsocket.js'></script>
+        <script src='/effects/animatedimage.js'></script>
+        <script src='/effects/runningline.js'></script>
+        <script src='/effects/snowflakes.js'></script>
+        <script src='/client.js'></script>
+
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+    </head>
+    <body>
+        <canvas id='mycanvas'>
+        </canvas>
+        <div class='buttonContainer'>
+            <button id="btnConnect" class="connectButton">Connect</button>
+        </div>
+        <div id='santa'>
+            <img id='santaimage' src='/santa.gif'></img>
+        </div>
+    </body>
+</html>
