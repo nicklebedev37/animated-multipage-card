@@ -13,6 +13,6 @@ To run the app:
 5. press 'start' on the host page.
 6. observe the running congratulation. It should look similar to:
 
-<todo: insert img>
+<img src="https://raw.githubusercontent.com/nicklebedev37/animated-multipage-card/master/sample.jpg"/>
 
 The app is the sort of prototype and therefore contains bugs :), but it does its primary purpose very stable and well.
