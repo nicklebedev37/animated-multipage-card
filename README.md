@@ -15,4 +15,6 @@ To run the app:
 
 <img src="https://raw.githubusercontent.com/nicklebedev37/animated-multipage-card/master/sample.jpg"/>
 
+Demo video: http://www.youtube.com/watch?v=CdVEcfHx5ms
+
 The app is the sort of prototype and therefore contains bugs :), but it does its primary purpose very stable and well.
